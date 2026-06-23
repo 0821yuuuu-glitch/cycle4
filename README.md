@@ -4,7 +4,7 @@
 
 **Name:** 余曜廷 (Tim Yu)
 
-**Student ID:**113370235
+**Student ID:** 113370235
 ## Project Repository
 
 **GitHub link:** https://github.com/0821yuuuu-glitch/IE-Final-Project]
